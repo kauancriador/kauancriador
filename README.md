@@ -4,7 +4,7 @@ my nome is KAUAN 👨🏾‍💻
 ![kauancriador GitHub stats](https://github-readme-stats.vercel.app/api?username=kauancriador&hide_icons=true&theme=merko) 
 
 ## Ranques das linguagens que mais utilizo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauancriador)](https://github.com/anuraghazra/github-readme-stats)
 
 #### linguagens que eu utilizo
 
