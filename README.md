@@ -1,20 +1,46 @@
-my nome is KAUAN 👨🏾‍💻
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oo_kauan_tm/)
+# 👋 Olá, eu sou o Kauan
 
-![kauancriador GitHub stats](https://github-readme-stats.vercel.app/api?username=kauancriador&hide_icons=true&theme=merko) 
+💻 Estudante de Tecnologia da Informação
+🚀 Focado em Front-End e desenvolvimento web
+📚 Atualmente aprendendo JavaScript e Java
+🎯 Em busca de estágio na área de TI
 
-## Ranques das linguagens que mais utilizo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauancriador)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-#### linguagens que eu utilizo
+## 🚀 Tecnologias que utilizo
 
-<img aligin="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img aligin="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img aligin="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img aligin="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
+---
 
-</div><br/>
+## 📊 GitHub Stats
 
+![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauancriador\&show_icons=true\&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauancriador\&layout=compact\&theme=tokyonight)
 
-Garoto de programmer
+---
+
+## 📚 Formação
+
+* Desenvolvimento Front-End – 2024
+* Programação Oracle Java Fundamentals – 2024
+* Design UX e UI – 2025
+* Desenvolvimento em JavaScript – 2026
+* Desvendando a Blockchain – 2026
+* Desvendando Data Centers – 2026
+
+---
+
+## 📫 Contato
+
+📍 Itapevi - SP
+📸 Instagram: [![Instagram](https://www.instagram.com/oo_kauan_lima?igsh=cXM3dmJ3NTZmcm9q&utm_source=qr)
+💼 Em busca da primeira oportunidade em TI
+
+---
+
+✨ Garoto de programmer 🚀
