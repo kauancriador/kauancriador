@@ -28,7 +28,7 @@
 ## 📫 Contato
 
 📍 Itapevi - SP
-📸 Instagram: [![Instagram](https://www.instagram.com/oo_kauan_lima?igsh=cXM3dmJ3NTZmcm9q&utm_source=qr)
+📸 Instagram: oo_kauan_lima
 💼 Em busca da primeira oportunidade em TI
 
 ---
