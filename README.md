@@ -1,21 +1,65 @@
-my nome is KAUAN 👨🏾‍💻
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oo_kauan_tm/)
+export default function PortfolioKauan() {
+  return (
+    <div className="min-h-screen bg-slate-950 text-white p-6 flex items-center justify-center">
+      <div className="max-w-4xl w-full bg-slate-900 rounded-3xl shadow-2xl overflow-hidden grid md:grid-cols-3">
+        <div className="bg-blue-700 p-8 flex flex-col justify-center">
+          <h1 className="text-4xl font-bold">Kauan de Lima</h1>
+          <p className="mt-3 text-blue-100">
+            Estudante de TI
+          </p>
 
-![kauancriador GitHub stats](https://github-readme-stats.vercel.app/api?username=kauancriador&hide_icons=true&theme=merko) 
+          <div className="mt-8 space-y-3 text-sm">
+            <p>📍 Itapevi - SP</p>
+            <p>💻 Buscando estágio em TI</p>
+            <p>📚 Jovem Aprendiz na Guima</p>
+          </div>
+        </div>
 
-## Ranques das linguagens que mais utilizo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauancriador)](https://github.com/anuraghazra/github-readme-stats)
+        <div className="md:col-span-2 p-8 space-y-8">
+          <section>
+            <h2 className="text-2xl font-bold text-blue-400 mb-3">Sobre mim</h2>
+            <p className="text-slate-300 leading-relaxed">
+              Tenho 18 anos, sou estudante de TI e jovem aprendiz na Guima.
+              Possuo conhecimentos em Front-End, JavaScript, Java Fundamentals,
+              UX/UI e Pacote Office. Sou dedicado, organizado e busco uma
+              oportunidade de estágio para crescer na área de tecnologia.
+            </p>
+          </section>
 
-#### linguagens que eu utilizo
+          <section>
+            <h2 className="text-2xl font-bold text-blue-400 mb-3">Formação & Cursos</h2>
+            <div className="grid sm:grid-cols-2 gap-3 text-slate-300">
+              <div className="bg-slate-800 p-3 rounded-xl">Front-End - 2024</div>
+              <div className="bg-slate-800 p-3 rounded-xl">JavaScript - 2026</div>
+              <div className="bg-slate-800 p-3 rounded-xl">Java Fundamentals - 2024</div>
+              <div className="bg-slate-800 p-3 rounded-xl">UX/UI - 2025</div>
+              <div className="bg-slate-800 p-3 rounded-xl">Pacote Office - 2023</div>
+              <div className="bg-slate-800 p-3 rounded-xl">Blockchain - 2026</div>
+            </div>
+          </section>
 
-<img aligin="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img aligin="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img aligin="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img aligin="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-
-</div><br/>
-
-
-
-Garoto de programmer
-
+          <section>
+            <h2 className="text-2xl font-bold text-blue-400 mb-3">Habilidades</h2>
+            <div className="flex flex-wrap gap-3">
+              {[
+                'HTML',
+                'CSS',
+                'JavaScript',
+                'Front-End',
+                'GitHub',
+                'Trabalho em equipe'
+              ].map((skill) => (
+                <span
+                  key={skill}
+                  className="bg-blue-600 px-4 py-2 rounded-full text-sm"
+                >
+                  {skill}
+                </span>
+              ))}
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  )
+}
